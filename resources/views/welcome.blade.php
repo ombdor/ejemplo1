@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Ejemplo sobre Laravel hola
+                    Ejemplo sobre 
                 </div>
 
                 
